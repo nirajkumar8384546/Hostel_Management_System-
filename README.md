@@ -1,1 +1,1 @@
-# Hostel-Rental
+# Hostel Management System 
